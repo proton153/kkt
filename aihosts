@@ -1,0 +1,98 @@
+# Title: MC/AI hosts
+#
+# This hosts file is a collection of hosts related to AI chatbots to protect internal network,
+# 
+#
+# Date: 28 April 2026 22:02:22 (EST)
+# Number of unique domains:?
+#
+# Fetch the latest version of this file: https://raw.githubusercontent.com/proton153/kkt/master/aihosts
+# 
+#
+# ===============================================================
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+127.0.0.1 local
+255.255.255.255 broadcasthost
+::1 localhost
+::1 ip6-localhost
+::1 ip6-loopback
+fe80::1%lo0 localhost
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+0.0.0.0 0.0.0.0
+
+# Custom host records are listed here.
+
+
+# End of custom host records.
+  
+#=====================================
+# Title: Hosts contributed by Mark Ciobanu
+# http://placeholder .com
+
+0.0.0.0 openai.com
+0.0.0.0 copilot.microsoft.com 
+0.0.0.0 cdn.anthropic.com
+0.0.0.0 servicing.claude.ai
+0.0.0.0 anthropic.com
+0.0.0.0 claude.ai
+0.0.0.0 sydney.bing.com
+0.0.0.0 edgeservices.bing.com
+0.0.0.0 perplexity.ai
+0.0.0.0 deepseek.com
+0.0.0.0 chat.deepseek.com
+0.0.0.0 api.deepseek.com
+0.0.0.0 mistral.ai
+0.0.0.0 chat.mistral.ai
+0.0.0.0 console.mistral.ai
+0.0.0.0 poe.com
+0.0.0.0 neo.character.ai
+0.0.0.0 character.ai
+0.0.0.0 beta.character.ai
+0.0.0.0 flux.ai
+0.0.0.0 ideogram.ai
+0.0.0.0 leonardo.ai
+0.0.0.0 midjourney.com
+0.0.0.0 blackbox.ai
+0.0.0.0 githubcopilot.com
+0.0.0.0 phind.com
+0.0.0.0 cursor.com
+0.0.0.0 sora.com
+0.0.0.0 runwayml.com
+0.0.0.0 luma.ai
+0.0.0.0 suno.com
+0.0.0.0 udio.com
+0.0.0.0 chatgpt.com
+0.0.0.0 oaistatic.com
+0.0.0.0 oaiusercontent.com
+0.0.0.0 auth.openai.com
+0.0.0.0 buzzsumo.com
+0.0.0.0 polybuzz.ai
+0.0.0.0 polybuzz.com
+0.0.0.0 polyai.ai
+0.0.0.0 polyspeak.ai
+0.0.0.0 api.polybuzz.ai
+0.0.0.0 app.polybuzz.ai
+0.0.0.0 static.polybuzz.ai
+0.0.0.0 hy.polybuzz.ai
+0.0.0.0 lightricks.com
+0.0.0.0 ltx.ai disabled=yes
+0.0.0.0 buzz.ai disabled=yes
+0.0.0.0 buzzsprout.com
+0.0.0.0 cici.ai
+0.0.0.0 bagelbell.com
+0.0.0.0 jimeng.ai
+0.0.0.0 gauth.ai
+0.0.0.0 gauthmath.com
+0.0.0.0 coze.com
+0.0.0.0 coze.cn
+0.0.0.0 doubao.com
+0.0.0.0 spicychat.ai
+0.0.0.0 talkie-ai.com
+0.0.0.0 janitorai.com
+0.0.0.0 crushon.ai
+0.0.0.0 meta.ai
